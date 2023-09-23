@@ -10,9 +10,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/forest_legacy/models/block/cherry_wood.json",
-          "src/main/resources/assets/forest_legacy/models/item/cherry_wood.json",
           "src/main/java/ru/power_umc/forestxexperiments/block/CherryWoodBlock.java",
-          "src/main/resources/assets/forest_legacy/blockstates/cherry_wood.json"
+          "src/main/resources/assets/forest_legacy/blockstates/cherry_wood.json",
+          "src/main/resources/assets/forest_legacy/models/item/cherry_wood.json"
         ]
       },
       "path": "~/Cherry"
@@ -26,10 +26,10 @@
       "registry_name": "cherry_log",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/models/item/cherry_log.json",
+          "src/main/resources/assets/forest_legacy/blockstates/cherry_log.json",
           "src/main/resources/assets/forest_legacy/models/block/cherry_log.json",
-          "src/main/java/ru/power_umc/forestxexperiments/block/CherryLogBlock.java",
-          "src/main/resources/assets/forest_legacy/blockstates/cherry_log.json"
+          "src/main/resources/assets/forest_legacy/models/item/cherry_log.json",
+          "src/main/java/ru/power_umc/forestxexperiments/block/CherryLogBlock.java"
         ]
       },
       "path": "~/Cherry"
@@ -43,10 +43,10 @@
       "registry_name": "cherry_planks",
       "metadata": {
         "files": [
-          "src/main/java/ru/power_umc/forestxexperiments/block/CherryPlanksBlock.java",
+          "src/main/resources/assets/forest_legacy/blockstates/cherry_planks.json",
           "src/main/resources/assets/forest_legacy/models/block/cherry_planks.json",
-          "src/main/resources/assets/forest_legacy/models/item/cherry_planks.json",
-          "src/main/resources/assets/forest_legacy/blockstates/cherry_planks.json"
+          "src/main/java/ru/power_umc/forestxexperiments/block/CherryPlanksBlock.java",
+          "src/main/resources/assets/forest_legacy/models/item/cherry_planks.json"
         ]
       },
       "path": "~/Cherry"
@@ -61,9 +61,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/forest_legacy/models/block/cherry_leaves.json",
+          "src/main/resources/assets/forest_legacy/blockstates/cherry_leaves.json",
           "src/main/resources/assets/forest_legacy/models/item/cherry_leaves.json",
-          "src/main/java/ru/power_umc/forestxexperiments/block/CherryLeavesBlock.java",
-          "src/main/resources/assets/forest_legacy/blockstates/cherry_leaves.json"
+          "src/main/java/ru/power_umc/forestxexperiments/block/CherryLeavesBlock.java"
         ]
       },
       "path": "~/Cherry"
@@ -77,12 +77,12 @@
       "registry_name": "cherry_stairs",
       "metadata": {
         "files": [
+          "src/main/java/ru/power_umc/forestxexperiments/block/CherryStairsBlock.java",
           "src/main/resources/assets/forest_legacy/models/item/cherry_stairs.json",
           "src/main/resources/assets/forest_legacy/blockstates/cherry_stairs.json",
           "src/main/resources/assets/forest_legacy/models/block/cherry_stairs_inner.json",
-          "src/main/resources/assets/forest_legacy/models/block/cherry_stairs_outer.json",
-          "src/main/java/ru/power_umc/forestxexperiments/block/CherryStairsBlock.java",
-          "src/main/resources/assets/forest_legacy/models/block/cherry_stairs.json"
+          "src/main/resources/assets/forest_legacy/models/block/cherry_stairs.json",
+          "src/main/resources/assets/forest_legacy/models/block/cherry_stairs_outer.json"
         ]
       },
       "path": "~/Cherry"
@@ -96,12 +96,12 @@
       "registry_name": "cherry_slab",
       "metadata": {
         "files": [
-          "src/main/java/ru/power_umc/forestxexperiments/block/CherrySlabBlock.java",
-          "src/main/resources/assets/forest_legacy/models/item/cherry_slab.json",
-          "src/main/resources/assets/forest_legacy/models/block/cherry_slab_full.json",
-          "src/main/resources/assets/forest_legacy/models/block/cherry_slab.json",
           "src/main/resources/assets/forest_legacy/models/block/cherry_slab_top.json",
-          "src/main/resources/assets/forest_legacy/blockstates/cherry_slab.json"
+          "src/main/resources/assets/forest_legacy/blockstates/cherry_slab.json",
+          "src/main/java/ru/power_umc/forestxexperiments/block/CherrySlabBlock.java",
+          "src/main/resources/assets/forest_legacy/models/block/cherry_slab_full.json",
+          "src/main/resources/assets/forest_legacy/models/item/cherry_slab.json",
+          "src/main/resources/assets/forest_legacy/models/block/cherry_slab.json"
         ]
       },
       "path": "~/Cherry"
@@ -115,12 +115,12 @@
       "registry_name": "cherry_fence",
       "metadata": {
         "files": [
-          "src/main/java/ru/power_umc/forestxexperiments/block/CherryFenceBlock.java",
-          "src/main/resources/assets/forest_legacy/models/block/cherry_fence.json",
+          "src/main/resources/assets/forest_legacy/models/block/cherry_fence_post.json",
           "src/main/resources/assets/forest_legacy/models/block/cherry_fence_inventory.json",
+          "src/main/resources/assets/forest_legacy/models/block/cherry_fence.json",
           "src/main/resources/assets/forest_legacy/models/item/cherry_fence.json",
           "src/main/resources/assets/forest_legacy/blockstates/cherry_fence.json",
-          "src/main/resources/assets/forest_legacy/models/block/cherry_fence_post.json"
+          "src/main/java/ru/power_umc/forestxexperiments/block/CherryFenceBlock.java"
         ]
       },
       "path": "~/Cherry"
@@ -134,13 +134,13 @@
       "registry_name": "cherry_fence_gate",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/blockstates/cherry_fence_gate.json",
           "src/main/resources/assets/forest_legacy/models/block/cherry_fence_gate_wall_open.json",
-          "src/main/resources/assets/forest_legacy/models/item/cherry_fence_gate.json",
+          "src/main/resources/assets/forest_legacy/models/block/cherry_fence_gate_wall.json",
           "src/main/resources/assets/forest_legacy/models/block/cherry_fence_gate.json",
-          "src/main/java/ru/power_umc/forestxexperiments/block/CherryFenceGateBlock.java",
+          "src/main/resources/assets/forest_legacy/models/item/cherry_fence_gate.json",
           "src/main/resources/assets/forest_legacy/models/block/cherry_fence_gate_open.json",
-          "src/main/resources/assets/forest_legacy/models/block/cherry_fence_gate_wall.json"
+          "src/main/resources/assets/forest_legacy/blockstates/cherry_fence_gate.json",
+          "src/main/java/ru/power_umc/forestxexperiments/block/CherryFenceGateBlock.java"
         ]
       },
       "path": "~/Cherry"
@@ -281,9 +281,9 @@
       "metadata": {
         "files": [
           "src/main/java/ru/power_umc/forestxexperiments/block/LemonWoodBlock.java",
+          "src/main/resources/assets/forest_legacy/models/block/lemon_wood.json",
           "src/main/resources/assets/forest_legacy/blockstates/lemon_wood.json",
-          "src/main/resources/assets/forest_legacy/models/item/lemon_wood.json",
-          "src/main/resources/assets/forest_legacy/models/block/lemon_wood.json"
+          "src/main/resources/assets/forest_legacy/models/item/lemon_wood.json"
         ]
       },
       "path": "~/Lemon"
@@ -297,10 +297,10 @@
       "registry_name": "lemon_log",
       "metadata": {
         "files": [
-          "src/main/java/ru/power_umc/forestxexperiments/block/LemonLogBlock.java",
+          "src/main/resources/assets/forest_legacy/models/item/lemon_log.json",
           "src/main/resources/assets/forest_legacy/blockstates/lemon_log.json",
           "src/main/resources/assets/forest_legacy/models/block/lemon_log.json",
-          "src/main/resources/assets/forest_legacy/models/item/lemon_log.json"
+          "src/main/java/ru/power_umc/forestxexperiments/block/LemonLogBlock.java"
         ]
       },
       "path": "~/Lemon"
@@ -315,9 +315,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/forest_legacy/models/item/lemon_planks.json",
+          "src/main/resources/assets/forest_legacy/blockstates/lemon_planks.json",
           "src/main/java/ru/power_umc/forestxexperiments/block/LemonPlanksBlock.java",
-          "src/main/resources/assets/forest_legacy/models/block/lemon_planks.json",
-          "src/main/resources/assets/forest_legacy/blockstates/lemon_planks.json"
+          "src/main/resources/assets/forest_legacy/models/block/lemon_planks.json"
         ]
       },
       "path": "~/Lemon"
@@ -332,9 +332,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/forest_legacy/blockstates/lemon_leaves.json",
-          "src/main/resources/assets/forest_legacy/models/block/lemon_leaves.json",
           "src/main/java/ru/power_umc/forestxexperiments/block/LemonLeavesBlock.java",
-          "src/main/resources/assets/forest_legacy/models/item/lemon_leaves.json"
+          "src/main/resources/assets/forest_legacy/models/item/lemon_leaves.json",
+          "src/main/resources/assets/forest_legacy/models/block/lemon_leaves.json"
         ]
       },
       "path": "~/Lemon"
@@ -349,11 +349,11 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/forest_legacy/models/block/lemon_stairs_inner.json",
-          "src/main/resources/assets/forest_legacy/models/block/lemon_stairs_outer.json",
-          "src/main/resources/assets/forest_legacy/models/block/lemon_stairs.json",
-          "src/main/resources/assets/forest_legacy/blockstates/lemon_stairs.json",
           "src/main/resources/assets/forest_legacy/models/item/lemon_stairs.json",
-          "src/main/java/ru/power_umc/forestxexperiments/block/LemonStairsBlock.java"
+          "src/main/resources/assets/forest_legacy/models/block/lemon_stairs.json",
+          "src/main/java/ru/power_umc/forestxexperiments/block/LemonStairsBlock.java",
+          "src/main/resources/assets/forest_legacy/blockstates/lemon_stairs.json",
+          "src/main/resources/assets/forest_legacy/models/block/lemon_stairs_outer.json"
         ]
       },
       "path": "~/Lemon"
@@ -367,12 +367,12 @@
       "registry_name": "lemon_slab",
       "metadata": {
         "files": [
+          "src/main/resources/assets/forest_legacy/models/block/lemon_slab_top.json",
+          "src/main/resources/assets/forest_legacy/models/block/lemon_slab_full.json",
           "src/main/resources/assets/forest_legacy/models/block/lemon_slab.json",
           "src/main/resources/assets/forest_legacy/models/item/lemon_slab.json",
           "src/main/resources/assets/forest_legacy/blockstates/lemon_slab.json",
-          "src/main/java/ru/power_umc/forestxexperiments/block/LemonSlabBlock.java",
-          "src/main/resources/assets/forest_legacy/models/block/lemon_slab_top.json",
-          "src/main/resources/assets/forest_legacy/models/block/lemon_slab_full.json"
+          "src/main/java/ru/power_umc/forestxexperiments/block/LemonSlabBlock.java"
         ]
       },
       "path": "~/Lemon"
@@ -386,12 +386,12 @@
       "registry_name": "lemon_fence",
       "metadata": {
         "files": [
+          "src/main/resources/assets/forest_legacy/blockstates/lemon_fence.json",
           "src/main/resources/assets/forest_legacy/models/block/lemon_fence.json",
+          "src/main/java/ru/power_umc/forestxexperiments/block/LemonFenceBlock.java",
           "src/main/resources/assets/forest_legacy/models/item/lemon_fence.json",
           "src/main/resources/assets/forest_legacy/models/block/lemon_fence_post.json",
-          "src/main/resources/assets/forest_legacy/models/block/lemon_fence_inventory.json",
-          "src/main/java/ru/power_umc/forestxexperiments/block/LemonFenceBlock.java",
-          "src/main/resources/assets/forest_legacy/blockstates/lemon_fence.json"
+          "src/main/resources/assets/forest_legacy/models/block/lemon_fence_inventory.json"
         ]
       },
       "path": "~/Lemon"
@@ -405,13 +405,13 @@
       "registry_name": "lemon_fence_gate",
       "metadata": {
         "files": [
-          "src/main/java/ru/power_umc/forestxexperiments/block/LemonFenceGateBlock.java",
-          "src/main/resources/assets/forest_legacy/models/block/lemon_fence_gate_wall_open.json",
-          "src/main/resources/assets/forest_legacy/models/block/lemon_fence_gate_wall.json",
           "src/main/resources/assets/forest_legacy/models/block/lemon_fence_gate_open.json",
-          "src/main/resources/assets/forest_legacy/blockstates/lemon_fence_gate.json",
           "src/main/resources/assets/forest_legacy/models/block/lemon_fence_gate.json",
-          "src/main/resources/assets/forest_legacy/models/item/lemon_fence_gate.json"
+          "src/main/java/ru/power_umc/forestxexperiments/block/LemonFenceGateBlock.java",
+          "src/main/resources/assets/forest_legacy/models/block/lemon_fence_gate_wall.json",
+          "src/main/resources/assets/forest_legacy/models/item/lemon_fence_gate.json",
+          "src/main/resources/assets/forest_legacy/blockstates/lemon_fence_gate.json",
+          "src/main/resources/assets/forest_legacy/models/block/lemon_fence_gate_wall_open.json"
         ]
       },
       "path": "~/Lemon"
@@ -571,10 +571,10 @@
       "registry_name": "peach_wood",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/models/block/peach_wood.json",
+          "src/main/resources/assets/forest_legacy/models/item/peach_wood.json",
           "src/main/resources/assets/forest_legacy/blockstates/peach_wood.json",
-          "src/main/java/ru/power_umc/forestxexperiments/block/PeachWoodBlock.java",
-          "src/main/resources/assets/forest_legacy/models/item/peach_wood.json"
+          "src/main/resources/assets/forest_legacy/models/block/peach_wood.json",
+          "src/main/java/ru/power_umc/forestxexperiments/block/PeachWoodBlock.java"
         ]
       },
       "path": "~/Peach"
@@ -588,10 +588,10 @@
       "registry_name": "peach_log",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/models/block/peach_log.json",
+          "src/main/resources/assets/forest_legacy/blockstates/peach_log.json",
           "src/main/java/ru/power_umc/forestxexperiments/block/PeachLogBlock.java",
-          "src/main/resources/assets/forest_legacy/models/item/peach_log.json",
-          "src/main/resources/assets/forest_legacy/blockstates/peach_log.json"
+          "src/main/resources/assets/forest_legacy/models/block/peach_log.json",
+          "src/main/resources/assets/forest_legacy/models/item/peach_log.json"
         ]
       },
       "path": "~/Peach"
@@ -605,10 +605,10 @@
       "registry_name": "peach_planks",
       "metadata": {
         "files": [
+          "src/main/resources/assets/forest_legacy/models/item/peach_planks.json",
           "src/main/resources/assets/forest_legacy/models/block/peach_planks.json",
           "src/main/resources/assets/forest_legacy/blockstates/peach_planks.json",
-          "src/main/java/ru/power_umc/forestxexperiments/block/PeachPlanksBlock.java",
-          "src/main/resources/assets/forest_legacy/models/item/peach_planks.json"
+          "src/main/java/ru/power_umc/forestxexperiments/block/PeachPlanksBlock.java"
         ]
       },
       "path": "~/Peach"
@@ -622,10 +622,10 @@
       "registry_name": "peach_leaves",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/models/item/peach_leaves.json",
-          "src/main/resources/assets/forest_legacy/blockstates/peach_leaves.json",
           "src/main/resources/assets/forest_legacy/models/block/peach_leaves.json",
-          "src/main/java/ru/power_umc/forestxexperiments/block/PeachLeavesBlock.java"
+          "src/main/resources/assets/forest_legacy/models/item/peach_leaves.json",
+          "src/main/java/ru/power_umc/forestxexperiments/block/PeachLeavesBlock.java",
+          "src/main/resources/assets/forest_legacy/blockstates/peach_leaves.json"
         ]
       },
       "path": "~/Peach"
@@ -639,12 +639,12 @@
       "registry_name": "peach_stairs",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/models/block/peach_stairs_outer.json",
-          "src/main/java/ru/power_umc/forestxexperiments/block/PeachStairsBlock.java",
           "src/main/resources/assets/forest_legacy/models/item/peach_stairs.json",
-          "src/main/resources/assets/forest_legacy/blockstates/peach_stairs.json",
+          "src/main/java/ru/power_umc/forestxexperiments/block/PeachStairsBlock.java",
           "src/main/resources/assets/forest_legacy/models/block/peach_stairs.json",
-          "src/main/resources/assets/forest_legacy/models/block/peach_stairs_inner.json"
+          "src/main/resources/assets/forest_legacy/blockstates/peach_stairs.json",
+          "src/main/resources/assets/forest_legacy/models/block/peach_stairs_inner.json",
+          "src/main/resources/assets/forest_legacy/models/block/peach_stairs_outer.json"
         ]
       },
       "path": "~/Peach"
@@ -658,12 +658,12 @@
       "registry_name": "peach_slab",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/models/block/peach_slab_top.json",
-          "src/main/java/ru/power_umc/forestxexperiments/block/PeachSlabBlock.java",
+          "src/main/resources/assets/forest_legacy/models/block/peach_slab.json",
           "src/main/resources/assets/forest_legacy/models/block/peach_slab_full.json",
+          "src/main/java/ru/power_umc/forestxexperiments/block/PeachSlabBlock.java",
+          "src/main/resources/assets/forest_legacy/models/block/peach_slab_top.json",
           "src/main/resources/assets/forest_legacy/models/item/peach_slab.json",
-          "src/main/resources/assets/forest_legacy/blockstates/peach_slab.json",
-          "src/main/resources/assets/forest_legacy/models/block/peach_slab.json"
+          "src/main/resources/assets/forest_legacy/blockstates/peach_slab.json"
         ]
       },
       "path": "~/Peach"
@@ -677,12 +677,12 @@
       "registry_name": "peach_fence",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/models/block/peach_fence_post.json",
-          "src/main/resources/assets/forest_legacy/models/block/peach_fence_inventory.json",
-          "src/main/resources/assets/forest_legacy/blockstates/peach_fence.json",
+          "src/main/resources/assets/forest_legacy/models/block/peach_fence.json",
           "src/main/resources/assets/forest_legacy/models/item/peach_fence.json",
+          "src/main/resources/assets/forest_legacy/blockstates/peach_fence.json",
+          "src/main/resources/assets/forest_legacy/models/block/peach_fence_inventory.json",
           "src/main/java/ru/power_umc/forestxexperiments/block/PeachFenceBlock.java",
-          "src/main/resources/assets/forest_legacy/models/block/peach_fence.json"
+          "src/main/resources/assets/forest_legacy/models/block/peach_fence_post.json"
         ]
       },
       "path": "~/Peach"
@@ -696,13 +696,13 @@
       "registry_name": "peach_fence_gate",
       "metadata": {
         "files": [
+          "src/main/resources/assets/forest_legacy/blockstates/peach_fence_gate.json",
+          "src/main/resources/assets/forest_legacy/models/block/peach_fence_gate_wall.json",
+          "src/main/resources/assets/forest_legacy/models/block/peach_fence_gate.json",
           "src/main/resources/assets/forest_legacy/models/item/peach_fence_gate.json",
           "src/main/resources/assets/forest_legacy/models/block/peach_fence_gate_wall_open.json",
-          "src/main/resources/assets/forest_legacy/blockstates/peach_fence_gate.json",
-          "src/main/resources/assets/forest_legacy/models/block/peach_fence_gate.json",
-          "src/main/resources/assets/forest_legacy/models/block/peach_fence_gate_wall.json",
-          "src/main/java/ru/power_umc/forestxexperiments/block/PeachFenceGateBlock.java",
-          "src/main/resources/assets/forest_legacy/models/block/peach_fence_gate_open.json"
+          "src/main/resources/assets/forest_legacy/models/block/peach_fence_gate_open.json",
+          "src/main/java/ru/power_umc/forestxexperiments/block/PeachFenceGateBlock.java"
         ]
       },
       "path": "~/Peach"
@@ -870,10 +870,10 @@
       "registry_name": "pear_wood",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/models/block/pear_wood.json",
+          "src/main/resources/assets/forest_legacy/blockstates/pear_wood.json",
           "src/main/resources/assets/forest_legacy/models/item/pear_wood.json",
-          "src/main/java/ru/power_umc/forestxexperiments/block/PearWoodBlock.java",
-          "src/main/resources/assets/forest_legacy/blockstates/pear_wood.json"
+          "src/main/resources/assets/forest_legacy/models/block/pear_wood.json",
+          "src/main/java/ru/power_umc/forestxexperiments/block/PearWoodBlock.java"
         ]
       },
       "path": "~/Pear"
@@ -887,10 +887,10 @@
       "registry_name": "pear_log",
       "metadata": {
         "files": [
-          "src/main/java/ru/power_umc/forestxexperiments/block/PearLogBlock.java",
           "src/main/resources/assets/forest_legacy/models/item/pear_log.json",
-          "src/main/resources/assets/forest_legacy/models/block/pear_log.json",
-          "src/main/resources/assets/forest_legacy/blockstates/pear_log.json"
+          "src/main/java/ru/power_umc/forestxexperiments/block/PearLogBlock.java",
+          "src/main/resources/assets/forest_legacy/blockstates/pear_log.json",
+          "src/main/resources/assets/forest_legacy/models/block/pear_log.json"
         ]
       },
       "path": "~/Pear"
@@ -904,10 +904,10 @@
       "registry_name": "pear_planks",
       "metadata": {
         "files": [
-          "src/main/java/ru/power_umc/forestxexperiments/block/PearPlanksBlock.java",
-          "src/main/resources/assets/forest_legacy/blockstates/pear_planks.json",
+          "src/main/resources/assets/forest_legacy/models/item/pear_planks.json",
           "src/main/resources/assets/forest_legacy/models/block/pear_planks.json",
-          "src/main/resources/assets/forest_legacy/models/item/pear_planks.json"
+          "src/main/java/ru/power_umc/forestxexperiments/block/PearPlanksBlock.java",
+          "src/main/resources/assets/forest_legacy/blockstates/pear_planks.json"
         ]
       },
       "path": "~/Pear"
@@ -921,10 +921,10 @@
       "registry_name": "pear_leaves",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/blockstates/pear_leaves.json",
-          "src/main/resources/assets/forest_legacy/models/block/pear_leaves.json",
           "src/main/java/ru/power_umc/forestxexperiments/block/PearLeavesBlock.java",
-          "src/main/resources/assets/forest_legacy/models/item/pear_leaves.json"
+          "src/main/resources/assets/forest_legacy/blockstates/pear_leaves.json",
+          "src/main/resources/assets/forest_legacy/models/item/pear_leaves.json",
+          "src/main/resources/assets/forest_legacy/models/block/pear_leaves.json"
         ]
       },
       "path": "~/Pear"
@@ -940,10 +940,10 @@
         "files": [
           "src/main/resources/assets/forest_legacy/blockstates/pear_stairs.json",
           "src/main/resources/assets/forest_legacy/models/block/pear_stairs_inner.json",
-          "src/main/resources/assets/forest_legacy/models/block/pear_stairs.json",
-          "src/main/resources/assets/forest_legacy/models/item/pear_stairs.json",
           "src/main/java/ru/power_umc/forestxexperiments/block/PearStairsBlock.java",
-          "src/main/resources/assets/forest_legacy/models/block/pear_stairs_outer.json"
+          "src/main/resources/assets/forest_legacy/models/block/pear_stairs_outer.json",
+          "src/main/resources/assets/forest_legacy/models/item/pear_stairs.json",
+          "src/main/resources/assets/forest_legacy/models/block/pear_stairs.json"
         ]
       },
       "path": "~/Pear"
@@ -957,12 +957,12 @@
       "registry_name": "pear_slab",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/models/item/pear_slab.json",
-          "src/main/resources/assets/forest_legacy/models/block/pear_slab_full.json",
-          "src/main/resources/assets/forest_legacy/blockstates/pear_slab.json",
-          "src/main/java/ru/power_umc/forestxexperiments/block/PearSlabBlock.java",
+          "src/main/resources/assets/forest_legacy/models/block/pear_slab_top.json",
           "src/main/resources/assets/forest_legacy/models/block/pear_slab.json",
-          "src/main/resources/assets/forest_legacy/models/block/pear_slab_top.json"
+          "src/main/resources/assets/forest_legacy/blockstates/pear_slab.json",
+          "src/main/resources/assets/forest_legacy/models/block/pear_slab_full.json",
+          "src/main/java/ru/power_umc/forestxexperiments/block/PearSlabBlock.java",
+          "src/main/resources/assets/forest_legacy/models/item/pear_slab.json"
         ]
       },
       "path": "~/Pear"
@@ -977,11 +977,11 @@
       "metadata": {
         "files": [
           "src/main/java/ru/power_umc/forestxexperiments/block/PearFenceBlock.java",
-          "src/main/resources/assets/forest_legacy/models/item/pear_fence.json",
-          "src/main/resources/assets/forest_legacy/models/block/pear_fence_inventory.json",
-          "src/main/resources/assets/forest_legacy/blockstates/pear_fence.json",
+          "src/main/resources/assets/forest_legacy/models/block/pear_fence.json",
           "src/main/resources/assets/forest_legacy/models/block/pear_fence_post.json",
-          "src/main/resources/assets/forest_legacy/models/block/pear_fence.json"
+          "src/main/resources/assets/forest_legacy/models/block/pear_fence_inventory.json",
+          "src/main/resources/assets/forest_legacy/models/item/pear_fence.json",
+          "src/main/resources/assets/forest_legacy/blockstates/pear_fence.json"
         ]
       },
       "path": "~/Pear"
@@ -995,13 +995,13 @@
       "registry_name": "pear_fence_gate",
       "metadata": {
         "files": [
+          "src/main/resources/assets/forest_legacy/models/item/pear_fence_gate.json",
           "src/main/resources/assets/forest_legacy/models/block/pear_fence_gate.json",
-          "src/main/resources/assets/forest_legacy/blockstates/pear_fence_gate.json",
-          "src/main/resources/assets/forest_legacy/models/block/pear_fence_gate_wall.json",
-          "src/main/resources/assets/forest_legacy/models/block/pear_fence_gate_wall_open.json",
           "src/main/java/ru/power_umc/forestxexperiments/block/PearFenceGateBlock.java",
+          "src/main/resources/assets/forest_legacy/models/block/pear_fence_gate_wall_open.json",
           "src/main/resources/assets/forest_legacy/models/block/pear_fence_gate_open.json",
-          "src/main/resources/assets/forest_legacy/models/item/pear_fence_gate.json"
+          "src/main/resources/assets/forest_legacy/blockstates/pear_fence_gate.json",
+          "src/main/resources/assets/forest_legacy/models/block/pear_fence_gate_wall.json"
         ]
       },
       "path": "~/Pear"
@@ -1155,10 +1155,10 @@
       "registry_name": "cherry_tree",
       "metadata": {
         "files": [
-          "src/main/resources/data/forest_legacy/worldgen/placed_feature/cherry_tree.json",
-          "src/main/resources/data/forest_legacy/forge/biome_modifier/cherry_tree_biome_modifier.json",
           "src/main/java/ru/power_umc/forestxexperiments/world/features/CherryTreeFeature.java",
-          "src/main/resources/data/forest_legacy/worldgen/configured_feature/cherry_tree.json"
+          "src/main/resources/data/forest_legacy/worldgen/configured_feature/cherry_tree.json",
+          "src/main/resources/data/forest_legacy/worldgen/placed_feature/cherry_tree.json",
+          "src/main/resources/data/forest_legacy/forge/biome_modifier/cherry_tree_biome_modifier.json"
         ]
       },
       "path": "~/Cherry"
@@ -1172,10 +1172,10 @@
       "registry_name": "pear_tree",
       "metadata": {
         "files": [
-          "src/main/resources/data/forest_legacy/worldgen/placed_feature/pear_tree.json",
           "src/main/resources/data/forest_legacy/forge/biome_modifier/pear_tree_biome_modifier.json",
           "src/main/resources/data/forest_legacy/worldgen/configured_feature/pear_tree.json",
-          "src/main/java/ru/power_umc/forestxexperiments/world/features/PearTreeFeature.java"
+          "src/main/java/ru/power_umc/forestxexperiments/world/features/PearTreeFeature.java",
+          "src/main/resources/data/forest_legacy/worldgen/placed_feature/pear_tree.json"
         ]
       },
       "path": "~/Pear"
@@ -1190,9 +1190,9 @@
       "metadata": {
         "files": [
           "src/main/java/ru/power_umc/forestxexperiments/world/features/PeachTreeFeature.java",
+          "src/main/resources/data/forest_legacy/worldgen/configured_feature/peach_tree.json",
           "src/main/resources/data/forest_legacy/forge/biome_modifier/peach_tree_biome_modifier.json",
-          "src/main/resources/data/forest_legacy/worldgen/placed_feature/peach_tree.json",
-          "src/main/resources/data/forest_legacy/worldgen/configured_feature/peach_tree.json"
+          "src/main/resources/data/forest_legacy/worldgen/placed_feature/peach_tree.json"
         ]
       },
       "path": "~/Peach"
@@ -1206,10 +1206,10 @@
       "registry_name": "lemon_tree",
       "metadata": {
         "files": [
-          "src/main/resources/data/forest_legacy/forge/biome_modifier/lemon_tree_biome_modifier.json",
+          "src/main/resources/data/forest_legacy/worldgen/configured_feature/lemon_tree.json",
           "src/main/resources/data/forest_legacy/worldgen/placed_feature/lemon_tree.json",
-          "src/main/java/ru/power_umc/forestxexperiments/world/features/LemonTreeFeature.java",
-          "src/main/resources/data/forest_legacy/worldgen/configured_feature/lemon_tree.json"
+          "src/main/resources/data/forest_legacy/forge/biome_modifier/lemon_tree_biome_modifier.json",
+          "src/main/java/ru/power_umc/forestxexperiments/world/features/LemonTreeFeature.java"
         ]
       },
       "path": "~/Lemon"
@@ -1223,10 +1223,10 @@
       "registry_name": "burned_log",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/models/block/burned_log.json",
-          "src/main/resources/assets/forest_legacy/models/item/burned_log.json",
+          "src/main/java/ru/power_umc/forestxexperiments/block/BurnedLogBlock.java",
           "src/main/resources/assets/forest_legacy/blockstates/burned_log.json",
-          "src/main/java/ru/power_umc/forestxexperiments/block/BurnedLogBlock.java"
+          "src/main/resources/assets/forest_legacy/models/item/burned_log.json",
+          "src/main/resources/assets/forest_legacy/models/block/burned_log.json"
         ]
       },
       "path": "~/BurnedForest"
@@ -1240,10 +1240,10 @@
       "registry_name": "burned_planks",
       "metadata": {
         "files": [
+          "src/main/resources/assets/forest_legacy/models/block/burned_planks.json",
           "src/main/resources/assets/forest_legacy/blockstates/burned_planks.json",
           "src/main/java/ru/power_umc/forestxexperiments/block/BurnedPlanksBlock.java",
-          "src/main/resources/assets/forest_legacy/models/item/burned_planks.json",
-          "src/main/resources/assets/forest_legacy/models/block/burned_planks.json"
+          "src/main/resources/assets/forest_legacy/models/item/burned_planks.json"
         ]
       },
       "path": "~/BurnedForest"
@@ -1257,10 +1257,10 @@
       "registry_name": "burned_leaves",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/models/block/burned_leaves.json",
           "src/main/java/ru/power_umc/forestxexperiments/block/BurnedLeavesBlock.java",
           "src/main/resources/assets/forest_legacy/blockstates/burned_leaves.json",
-          "src/main/resources/assets/forest_legacy/models/item/burned_leaves.json"
+          "src/main/resources/assets/forest_legacy/models/item/burned_leaves.json",
+          "src/main/resources/assets/forest_legacy/models/block/burned_leaves.json"
         ]
       },
       "path": "~/BurnedForest"
@@ -1274,11 +1274,11 @@
       "registry_name": "burned_pressure_plate",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/models/item/burned_pressure_plate.json",
-          "src/main/resources/assets/forest_legacy/models/block/burned_pressure_plate_down.json",
-          "src/main/resources/assets/forest_legacy/blockstates/burned_pressure_plate.json",
+          "src/main/resources/assets/forest_legacy/models/block/burned_pressure_plate.json",
           "src/main/java/ru/power_umc/forestxexperiments/block/BurnedPressurePlateBlock.java",
-          "src/main/resources/assets/forest_legacy/models/block/burned_pressure_plate.json"
+          "src/main/resources/assets/forest_legacy/blockstates/burned_pressure_plate.json",
+          "src/main/resources/assets/forest_legacy/models/item/burned_pressure_plate.json",
+          "src/main/resources/assets/forest_legacy/models/block/burned_pressure_plate_down.json"
         ]
       },
       "path": "~/BurnedForest"
@@ -1332,10 +1332,10 @@
       "registry_name": "ash_block",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/models/block/ash_block.json",
           "src/main/resources/assets/forest_legacy/models/item/ash_block.json",
-          "src/main/resources/assets/forest_legacy/blockstates/ash_block.json",
-          "src/main/java/ru/power_umc/forestxexperiments/block/AshBlockBlock.java"
+          "src/main/java/ru/power_umc/forestxexperiments/block/AshBlockBlock.java",
+          "src/main/resources/assets/forest_legacy/models/block/ash_block.json",
+          "src/main/resources/assets/forest_legacy/blockstates/ash_block.json"
         ]
       },
       "path": "~/BurnedForest"
@@ -1350,11 +1350,11 @@
       "metadata": {
         "files": [
           "src/main/java/ru/power_umc/forestxexperiments/world/features/treedecorators/BurnedForestFruitDecorator.java",
-          "src/main/java/ru/power_umc/forestxexperiments/world/features/treedecorators/BurnedForestTrunkDecorator.java",
-          "src/main/resources/data/forest_legacy/worldgen/biome/burned_forest.json",
+          "src/main/resources/data/forest_legacy/worldgen/configured_feature/burned_forest_tree.json",
           "src/main/resources/data/forest_legacy/worldgen/placed_feature/burned_forest_tree.json",
+          "src/main/resources/data/forest_legacy/worldgen/biome/burned_forest.json",
           "src/main/java/ru/power_umc/forestxexperiments/world/features/treedecorators/BurnedForestLeaveDecorator.java",
-          "src/main/resources/data/forest_legacy/worldgen/configured_feature/burned_forest_tree.json"
+          "src/main/java/ru/power_umc/forestxexperiments/world/features/treedecorators/BurnedForestTrunkDecorator.java"
         ]
       },
       "path": "~/Biomes"
@@ -1368,10 +1368,10 @@
       "registry_name": "ashencow",
       "metadata": {
         "files": [
-          "src/main/resources/data/forest_legacy/forge/biome_modifier/ashencow_biome_modifier.json",
-          "src/main/java/ru/power_umc/forestxexperiments/client/renderer/AshencowRenderer.java",
           "src/main/resources/assets/forest_legacy/models/item/ashencow_spawn_egg.json",
-          "src/main/java/ru/power_umc/forestxexperiments/entity/AshencowEntity.java"
+          "src/main/java/ru/power_umc/forestxexperiments/entity/AshencowEntity.java",
+          "src/main/resources/data/forest_legacy/forge/biome_modifier/ashencow_biome_modifier.json",
+          "src/main/java/ru/power_umc/forestxexperiments/client/renderer/AshencowRenderer.java"
         ]
       },
       "path": "~/BurnedForest"
@@ -1385,8 +1385,8 @@
       "registry_name": "salt_dust",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/models/item/salt_dust.json",
-          "src/main/java/ru/power_umc/forestxexperiments/item/SaltDustItem.java"
+          "src/main/java/ru/power_umc/forestxexperiments/item/SaltDustItem.java",
+          "src/main/resources/assets/forest_legacy/models/item/salt_dust.json"
         ]
       },
       "path": "~/Salt"
@@ -1400,14 +1400,14 @@
       "registry_name": "rock_salt",
       "metadata": {
         "files": [
-          "src/main/java/ru/power_umc/forestxexperiments/world/features/ores/SaltOreFeature.java",
+          "src/main/resources/assets/forest_legacy/models/item/rock_salt.json",
           "src/main/resources/data/forest_legacy/worldgen/configured_feature/rock_salt.json",
+          "src/main/resources/assets/forest_legacy/blockstates/rock_salt.json",
           "src/main/resources/data/forest_legacy/forge/biome_modifier/rock_salt_biome_modifier.json",
           "src/main/java/ru/power_umc/forestxexperiments/block/SaltOreBlock.java",
-          "src/main/resources/assets/forest_legacy/blockstates/rock_salt.json",
+          "src/main/resources/data/forest_legacy/worldgen/placed_feature/rock_salt.json",
           "src/main/resources/assets/forest_legacy/models/block/rock_salt.json",
-          "src/main/resources/assets/forest_legacy/models/item/rock_salt.json",
-          "src/main/resources/data/forest_legacy/worldgen/placed_feature/rock_salt.json"
+          "src/main/java/ru/power_umc/forestxexperiments/world/features/ores/SaltOreFeature.java"
         ]
       },
       "path": "~/Salt"
@@ -1421,10 +1421,10 @@
       "registry_name": "salt_block",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/blockstates/salt_block.json",
+          "src/main/java/ru/power_umc/forestxexperiments/block/SaltBlockBlock.java",
           "src/main/resources/assets/forest_legacy/models/block/salt_block.json",
           "src/main/resources/assets/forest_legacy/models/item/salt_block.json",
-          "src/main/java/ru/power_umc/forestxexperiments/block/SaltBlockBlock.java"
+          "src/main/resources/assets/forest_legacy/blockstates/salt_block.json"
         ]
       },
       "path": "~/Salt"
@@ -1560,10 +1560,10 @@
       "registry_name": "cherry_sapling",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/models/block/cherry_sapling.json",
-          "src/main/resources/assets/forest_legacy/blockstates/cherry_sapling.json",
+          "src/main/resources/assets/forest_legacy/models/item/cherry_sapling.json",
           "src/main/java/ru/power_umc/forestxexperiments/block/CherrySaplingBlock.java",
-          "src/main/resources/assets/forest_legacy/models/item/cherry_sapling.json"
+          "src/main/resources/assets/forest_legacy/blockstates/cherry_sapling.json",
+          "src/main/resources/assets/forest_legacy/models/block/cherry_sapling.json"
         ]
       },
       "path": "~/Cherry"
@@ -1730,10 +1730,10 @@
       "registry_name": "peach_sapling",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/models/item/peach_sapling.json",
-          "src/main/resources/assets/forest_legacy/models/block/peach_sapling.json",
           "src/main/java/ru/power_umc/forestxexperiments/block/PeachSaplingBlock.java",
-          "src/main/resources/assets/forest_legacy/blockstates/peach_sapling.json"
+          "src/main/resources/assets/forest_legacy/models/block/peach_sapling.json",
+          "src/main/resources/assets/forest_legacy/blockstates/peach_sapling.json",
+          "src/main/resources/assets/forest_legacy/models/item/peach_sapling.json"
         ]
       },
       "path": "~/Peach"
@@ -1816,9 +1816,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/forest_legacy/models/item/pear_sapling.json",
-          "src/main/resources/assets/forest_legacy/models/block/pear_sapling.json",
+          "src/main/resources/assets/forest_legacy/blockstates/pear_sapling.json",
           "src/main/java/ru/power_umc/forestxexperiments/block/PearSaplingBlock.java",
-          "src/main/resources/assets/forest_legacy/blockstates/pear_sapling.json"
+          "src/main/resources/assets/forest_legacy/models/block/pear_sapling.json"
         ]
       },
       "path": "~/Pear"
@@ -1920,10 +1920,10 @@
       "registry_name": "blackberrybush_0",
       "metadata": {
         "files": [
+          "src/main/resources/assets/forest_legacy/models/item/blackberrybush_0.json",
           "src/main/resources/assets/forest_legacy/models/block/blackberrybush_0.json",
-          "src/main/resources/assets/forest_legacy/blockstates/blackberrybush_0.json",
           "src/main/java/ru/power_umc/forestxexperiments/block/Blackberrybush0Block.java",
-          "src/main/resources/assets/forest_legacy/models/item/blackberrybush_0.json"
+          "src/main/resources/assets/forest_legacy/blockstates/blackberrybush_0.json"
         ]
       },
       "path": "~/Bushes"
@@ -1937,14 +1937,14 @@
       "registry_name": "blackberrybush_1",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/models/item/blackberrybush_1.json",
-          "src/main/java/ru/power_umc/forestxexperiments/world/features/plants/Blackberrybush1Feature.java",
-          "src/main/resources/data/forest_legacy/forge/biome_modifier/blackberrybush_1_biome_modifier.json",
           "src/main/resources/assets/forest_legacy/models/block/blackberrybush_1.json",
-          "src/main/resources/assets/forest_legacy/blockstates/blackberrybush_1.json",
-          "src/main/resources/data/forest_legacy/worldgen/configured_feature/blackberrybush_1.json",
           "src/main/resources/data/forest_legacy/worldgen/placed_feature/blackberrybush_1.json",
-          "src/main/java/ru/power_umc/forestxexperiments/block/Blackberrybush1Block.java"
+          "src/main/resources/data/forest_legacy/worldgen/configured_feature/blackberrybush_1.json",
+          "src/main/java/ru/power_umc/forestxexperiments/world/features/plants/Blackberrybush1Feature.java",
+          "src/main/java/ru/power_umc/forestxexperiments/block/Blackberrybush1Block.java",
+          "src/main/resources/assets/forest_legacy/models/item/blackberrybush_1.json",
+          "src/main/resources/assets/forest_legacy/blockstates/blackberrybush_1.json",
+          "src/main/resources/data/forest_legacy/forge/biome_modifier/blackberrybush_1_biome_modifier.json"
         ]
       },
       "path": "~/Bushes"
@@ -2062,10 +2062,10 @@
       "registry_name": "cranberrybush_0",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/blockstates/cranberrybush_0.json",
+          "src/main/resources/assets/forest_legacy/models/item/cranberrybush_0.json",
           "src/main/resources/assets/forest_legacy/models/block/cranberrybush_0.json",
-          "src/main/java/ru/power_umc/forestxexperiments/block/Cranberrybush0Block.java",
-          "src/main/resources/assets/forest_legacy/models/item/cranberrybush_0.json"
+          "src/main/resources/assets/forest_legacy/blockstates/cranberrybush_0.json",
+          "src/main/java/ru/power_umc/forestxexperiments/block/Cranberrybush0Block.java"
         ]
       },
       "path": "~/Bushes"
@@ -2079,14 +2079,14 @@
       "registry_name": "cranberrybush_1",
       "metadata": {
         "files": [
-          "src/main/java/ru/power_umc/forestxexperiments/world/features/plants/Cranberrybush1Feature.java",
-          "src/main/resources/assets/forest_legacy/models/item/cranberrybush_1.json",
-          "src/main/resources/data/forest_legacy/forge/biome_modifier/cranberrybush_1_biome_modifier.json",
           "src/main/resources/data/forest_legacy/worldgen/placed_feature/cranberrybush_1.json",
-          "src/main/resources/data/forest_legacy/worldgen/configured_feature/cranberrybush_1.json",
-          "src/main/resources/assets/forest_legacy/blockstates/cranberrybush_1.json",
+          "src/main/java/ru/power_umc/forestxexperiments/world/features/plants/Cranberrybush1Feature.java",
+          "src/main/resources/data/forest_legacy/forge/biome_modifier/cranberrybush_1_biome_modifier.json",
           "src/main/java/ru/power_umc/forestxexperiments/block/Cranberrybush1Block.java",
-          "src/main/resources/assets/forest_legacy/models/block/cranberrybush_1.json"
+          "src/main/resources/assets/forest_legacy/models/item/cranberrybush_1.json",
+          "src/main/resources/assets/forest_legacy/models/block/cranberrybush_1.json",
+          "src/main/resources/data/forest_legacy/worldgen/configured_feature/cranberrybush_1.json",
+          "src/main/resources/assets/forest_legacy/blockstates/cranberrybush_1.json"
         ]
       },
       "path": "~/Bushes"
@@ -2264,8 +2264,8 @@
       "metadata": {
         "files": [
           "src/main/resources/data/forest_legacy/forge/biome_modifier/mummy_biome_modifier.json",
-          "src/main/java/ru/power_umc/forestxexperiments/client/renderer/MummyRenderer.java",
           "src/main/java/ru/power_umc/forestxexperiments/entity/MummyEntity.java",
+          "src/main/java/ru/power_umc/forestxexperiments/client/renderer/MummyRenderer.java",
           "src/main/resources/assets/forest_legacy/models/item/mummy_spawn_egg.json"
         ]
       },
@@ -2281,13 +2281,13 @@
       "metadata": {
         "gb": true,
         "files": [
-          "src/main/resources/assets/forest_legacy/models/item/quicksand_bucket.json",
+          "src/main/java/ru/power_umc/forestxexperiments/item/QuicksandItem.java",
           "src/main/java/ru/power_umc/forestxexperiments/fluid/QuicksandFluid.java",
           "src/main/java/ru/power_umc/forestxexperiments/block/QuicksandBlock.java",
-          "src/main/resources/assets/forest_legacy/models/block/quicksand.json",
+          "src/main/resources/assets/forest_legacy/models/item/quicksand_bucket.json",
           "src/main/resources/assets/forest_legacy/blockstates/quicksand.json",
           "src/main/java/ru/power_umc/forestxexperiments/fluid/types/QuicksandFluidType.java",
-          "src/main/java/ru/power_umc/forestxexperiments/item/QuicksandItem.java"
+          "src/main/resources/assets/forest_legacy/models/block/quicksand.json"
         ]
       },
       "path": "~/Desert"
@@ -2328,13 +2328,13 @@
       "registry_name": "underground_crystal",
       "metadata": {
         "files": [
+          "src/main/resources/assets/forest_legacy/models/item/underground_crystal.json",
           "src/main/resources/data/forest_legacy/worldgen/configured_feature/underground_crystal.json",
           "src/main/resources/assets/forest_legacy/blockstates/underground_crystal.json",
-          "src/main/resources/assets/forest_legacy/models/item/underground_crystal.json",
-          "src/main/resources/data/forest_legacy/forge/biome_modifier/underground_crystal_biome_modifier.json",
           "src/main/java/ru/power_umc/forestxexperiments/world/features/ores/UndergroundCrystalFeature.java",
-          "src/main/java/ru/power_umc/forestxexperiments/block/UndergroundCrystalBlock.java",
           "src/main/resources/assets/forest_legacy/models/block/underground_crystal.json",
+          "src/main/java/ru/power_umc/forestxexperiments/block/UndergroundCrystalBlock.java",
+          "src/main/resources/data/forest_legacy/forge/biome_modifier/underground_crystal_biome_modifier.json",
           "src/main/resources/data/forest_legacy/worldgen/placed_feature/underground_crystal.json"
         ]
       },
@@ -2403,14 +2403,14 @@
       "registry_name": "window_block",
       "metadata": {
         "files": [
+          "src/main/resources/assets/forest_legacy/models/block/window_block_noside.json",
           "src/main/resources/assets/forest_legacy/models/item/window_block.json",
           "src/main/resources/assets/forest_legacy/models/block/window_block_post.json",
+          "src/main/resources/assets/forest_legacy/blockstates/window_block.json",
           "src/main/resources/assets/forest_legacy/models/block/window_block_noside_alt.json",
-          "src/main/resources/assets/forest_legacy/models/block/window_block_noside.json",
           "src/main/resources/assets/forest_legacy/models/block/window_block_side.json",
           "src/main/java/ru/power_umc/forestxexperiments/block/WindowBlockBlock.java",
-          "src/main/resources/assets/forest_legacy/models/block/window_block_side_alt.json",
-          "src/main/resources/assets/forest_legacy/blockstates/window_block.json"
+          "src/main/resources/assets/forest_legacy/models/block/window_block_side_alt.json"
         ]
       },
       "path": "~/Decorations"
@@ -2424,14 +2424,14 @@
       "registry_name": "black_windows_block",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/models/block/black_windows_block_noside.json",
-          "src/main/resources/assets/forest_legacy/models/item/black_windows_block.json",
-          "src/main/resources/assets/forest_legacy/models/block/black_windows_block_side_alt.json",
+          "src/main/java/ru/power_umc/forestxexperiments/block/BlackWindowsBlockBlock.java",
           "src/main/resources/assets/forest_legacy/blockstates/black_windows_block.json",
           "src/main/resources/assets/forest_legacy/models/block/black_windows_block_post.json",
-          "src/main/resources/assets/forest_legacy/models/block/black_windows_block_noside_alt.json",
           "src/main/resources/assets/forest_legacy/models/block/black_windows_block_side.json",
-          "src/main/java/ru/power_umc/forestxexperiments/block/BlackWindowsBlockBlock.java"
+          "src/main/resources/assets/forest_legacy/models/block/black_windows_block_noside_alt.json",
+          "src/main/resources/assets/forest_legacy/models/item/black_windows_block.json",
+          "src/main/resources/assets/forest_legacy/models/block/black_windows_block_side_alt.json",
+          "src/main/resources/assets/forest_legacy/models/block/black_windows_block_noside.json"
         ]
       },
       "path": "~/Decorations"
@@ -2573,8 +2573,8 @@
       "registry_name": "peach",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/models/item/peach.json",
-          "src/main/java/ru/power_umc/forestxexperiments/item/PeachItem.java"
+          "src/main/java/ru/power_umc/forestxexperiments/item/PeachItem.java",
+          "src/main/resources/assets/forest_legacy/models/item/peach.json"
         ]
       },
       "path": "~/Peach"
@@ -2634,9 +2634,9 @@
       "metadata": {
         "files": [
           "src/main/resources/data/forest_legacy/worldgen/placed_feature/quicksand_feature.json",
-          "src/main/resources/data/forest_legacy/worldgen/configured_feature/quicksand_feature.json",
           "src/main/java/ru/power_umc/forestxexperiments/world/features/QuicksandFeatureFeature.java",
-          "src/main/resources/data/forest_legacy/forge/biome_modifier/quicksand_feature_biome_modifier.json"
+          "src/main/resources/data/forest_legacy/forge/biome_modifier/quicksand_feature_biome_modifier.json",
+          "src/main/resources/data/forest_legacy/worldgen/configured_feature/quicksand_feature.json"
         ]
       },
       "path": "~/Desert"
@@ -2650,8 +2650,8 @@
       "registry_name": "salt_cod",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/models/item/salt_cod.json",
-          "src/main/java/ru/power_umc/forestxexperiments/item/SaltCodItem.java"
+          "src/main/java/ru/power_umc/forestxexperiments/item/SaltCodItem.java",
+          "src/main/resources/assets/forest_legacy/models/item/salt_cod.json"
         ]
       },
       "path": "~/Salt"
@@ -2695,8 +2695,8 @@
       "registry_name": "salt_egg",
       "metadata": {
         "files": [
-          "src/main/resources/assets/forest_legacy/models/item/salt_egg.json",
-          "src/main/java/ru/power_umc/forestxexperiments/item/SaltEggItem.java"
+          "src/main/java/ru/power_umc/forestxexperiments/item/SaltEggItem.java",
+          "src/main/resources/assets/forest_legacy/models/item/salt_egg.json"
         ]
       },
       "path": "~/Salt"
@@ -2710,9 +2710,9 @@
       "registry_name": "fruit_forest",
       "metadata": {
         "files": [
-          "src/main/resources/data/forest_legacy/worldgen/biome/fruit_forest.json",
           "src/main/resources/data/forest_legacy/worldgen/placed_feature/fruit_forest_tree.json",
-          "src/main/resources/data/forest_legacy/worldgen/configured_feature/fruit_forest_tree.json"
+          "src/main/resources/data/forest_legacy/worldgen/configured_feature/fruit_forest_tree.json",
+          "src/main/resources/data/forest_legacy/worldgen/biome/fruit_forest.json"
         ]
       },
       "path": "~/Biomes"
@@ -2877,9 +2877,9 @@
   ],
   "language_map": {
     "en_us": {
-      "item.forest.silver_pickaxe": "Silver Pickaxe",
-      "item.forestex.ashencow_spawn_egg": "Ashencow Spawn Egg",
       "block.forest_legacy.cherry_fence_gate": "Cherry Fence Gate",
+      "item.forestex.ashencow_spawn_egg": "Ashencow Spawn Egg",
+      "item.forest.silver_pickaxe": "Silver Pickaxe",
       "block.forest_legacy.lemon_stairs": "Lemon Stairs",
       "itemGroup.tabsalt_category": "Salt Category",
       "biome.forestex.fruit_forest": "Fruit Forest",
@@ -2915,8 +2915,8 @@
       "advancements.radiance_in_the_dungeon.descr": "Get an underground crystal",
       "itemGroup.tabdesert_category": "Desert Category",
       "item.forestex.music_disc_egypt": "Music Disc",
-      "block.forest.underground_crystal": "Underground Crystal",
       "item.forestex.blackberry": "Blackberry",
+      "block.forest.underground_crystal": "Underground Crystal",
       "block.forest_legacy.pear_planks": "Pear Planks",
       "item.forest.silver_hoe": "Silver Hoe",
       "block.forest.cherry_fence": "Cherry Fence",
