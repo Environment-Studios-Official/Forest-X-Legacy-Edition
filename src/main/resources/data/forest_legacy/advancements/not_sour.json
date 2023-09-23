@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "forest_legacy:lemon"
+    },
+    "title": {
+      "translate": "advancements.not_sour.title"
+    },
+    "description": {
+      "translate": "advancements.not_sour.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "not_sour": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "forest_legacy:lemon"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "forest_legacy:is_this_an_srchard"
+}

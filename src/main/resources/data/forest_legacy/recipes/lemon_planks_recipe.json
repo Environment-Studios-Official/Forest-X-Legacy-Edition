@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:lemon_log"
+    }
+  ],
+  "result": {
+    "item": "forest_legacy:lemon_planks",
+    "count": 4
+  }
+}

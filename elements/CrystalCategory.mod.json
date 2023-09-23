@@ -1,0 +1,11 @@
+{
+  "_fv": 48,
+  "_type": "tab",
+  "definition": {
+    "name": "Crystal Category",
+    "icon": {
+      "value": "CUSTOM:CrystalDust"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "forest_legacy:salt_block"
+    }
+  ],
+  "result": {
+    "item": "forest_legacy:salt_dust",
+    "count": 9
+  }
+}

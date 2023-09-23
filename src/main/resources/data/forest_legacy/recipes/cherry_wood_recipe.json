@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "forest_legacy:cherry_log"
+    },
+    "1": {
+      "item": "forest_legacy:cherry_log"
+    },
+    "2": {
+      "item": "forest_legacy:cherry_log"
+    },
+    "3": {
+      "item": "forest_legacy:cherry_log"
+    }
+  },
+  "result": {
+    "item": "forest_legacy:cherry_wood",
+    "count": 3
+  }
+}

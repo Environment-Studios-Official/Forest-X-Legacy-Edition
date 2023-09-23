@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "forest_legacy:block/forest_cherry_log_side",
+    "particle": "forest_legacy:block/forest_cherry_log_side"
+  },
+  "render_type": "solid"
+}

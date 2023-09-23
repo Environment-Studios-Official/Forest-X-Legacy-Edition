@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "forest_legacy:rock_salt",
+    "forest_legacy:salt_block",
+    "forest_legacy:underground_crystal"
+  ]
+}

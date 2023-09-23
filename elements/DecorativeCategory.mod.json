@@ -1,0 +1,11 @@
+{
+  "_fv": 48,
+  "_type": "tab",
+  "definition": {
+    "name": "Decorative Category",
+    "icon": {
+      "value": "CUSTOM:WindowBlock"
+    },
+    "showSearch": false
+  }
+}

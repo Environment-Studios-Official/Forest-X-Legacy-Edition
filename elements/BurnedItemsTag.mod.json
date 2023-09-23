@@ -1,0 +1,20 @@
+{
+  "_fv": 48,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:BurnedWood"
+      },
+      {
+        "value": "CUSTOM:BurnedLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "burned_log",
+    "namespace": "forge"
+  }
+}

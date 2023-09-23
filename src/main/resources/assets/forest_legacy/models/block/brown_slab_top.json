@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "forest:block/brown_planks",
+    "top": "forest:block/brown_planks",
+    "side": "forest:block/brown_planks"
+  },
+  "render_type": "solid"
+}

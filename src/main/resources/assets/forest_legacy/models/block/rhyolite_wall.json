@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "forest:block/rhyolite",
+    "particle": "forest:block/rhyolite"
+  },
+  "render_type": "solid"
+}

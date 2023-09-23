@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "forest_legacy:block/forest_peach_planks",
+    "particle": "forest_legacy:block/forest_peach_planks"
+  },
+  "render_type": "solid"
+}

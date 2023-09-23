@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "forest:block/truncated_pumice",
+    "top": "forest:block/truncated_pumice",
+    "side": "forest:block/truncated_pumice"
+  },
+  "render_type": "solid"
+}

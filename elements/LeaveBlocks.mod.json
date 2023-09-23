@@ -1,0 +1,30 @@
+{
+  "_fv": 48,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:CherryLeaves"
+      },
+      {
+        "value": "CUSTOM:LemonLeaves"
+      },
+      {
+        "value": "CUSTOM:PeachLeaves"
+      },
+      {
+        "value": "CUSTOM:PearLeaves"
+      },
+      {
+        "value": "CUSTOM:BurnedLeaves"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "leaves",
+    "namespace": "minecraft"
+  }
+}

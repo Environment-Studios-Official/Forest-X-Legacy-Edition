@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "forest_legacy:block/burned_log_top",
+    "up": "forest_legacy:block/burned_log_top",
+    "north": "forest_legacy:block/burned_log",
+    "east": "forest_legacy:block/burned_log",
+    "south": "forest_legacy:block/burned_log",
+    "west": "forest_legacy:block/burned_log",
+    "particle": "forest_legacy:block/burned_log_top"
+  },
+  "render_type": "solid"
+}

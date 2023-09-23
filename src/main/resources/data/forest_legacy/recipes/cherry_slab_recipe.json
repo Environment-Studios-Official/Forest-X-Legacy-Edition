@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "forest_legacy:cherry_planks"
+    },
+    "1": {
+      "item": "forest_legacy:cherry_planks"
+    },
+    "2": {
+      "item": "forest_legacy:cherry_planks"
+    }
+  },
+  "result": {
+    "item": "forest_legacy:cherry_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "forest_legacy:block/crystal",
+    "up": "forest_legacy:block/crystal",
+    "north": "forest_legacy:block/crystal",
+    "east": "forest_legacy:block/crystal",
+    "south": "forest_legacy:block/crystal",
+    "west": "forest_legacy:block/crystal",
+    "particle": "forest_legacy:block/crystal"
+  },
+  "render_type": "solid"
+}

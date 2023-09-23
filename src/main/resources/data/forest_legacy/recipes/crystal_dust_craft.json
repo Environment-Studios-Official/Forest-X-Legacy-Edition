@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "forest_legacy:underground_crystal"
+    }
+  ],
+  "result": {
+    "item": "forest_legacy:crystal_dust",
+    "count": 9
+  }
+}

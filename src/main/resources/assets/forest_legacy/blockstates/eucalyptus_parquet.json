@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "forest:block/eucalyptus_parquet"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "record.egypt": {
+    "sounds": [
+      {
+        "name": "forest_legacy:egypt",
+        "stream": true
+      }
+    ]
+  },
+  "mummy.ambient": {
+    "sounds": [
+      {
+        "name": "forest_legacy:ambient",
+        "stream": false
+      }
+    ]
+  },
+  "mummy.step": {
+    "sounds": [
+      {
+        "name": "forest_legacy:step",
+        "stream": false
+      }
+    ]
+  },
+  "mummy.hurt": {
+    "sounds": [
+      {
+        "name": "forest_legacy:hurt",
+        "stream": false
+      }
+    ]
+  },
+  "mummy.death": {
+    "sounds": [
+      {
+        "name": "forest_legacy:death",
+        "stream": false
+      }
+    ]
+  }
+}

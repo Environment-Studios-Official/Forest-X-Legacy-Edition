@@ -1,0 +1,9 @@
+{
+  "parent": "forest:custom/carpet",
+  "textures": {
+    "all": "forest:block/polar_bear_carpet",
+    "particle": "forest:block/polar_bear_carpet",
+    "1": "forest:block/polar_bear_carpet"
+  },
+  "render_type": "solid"
+}

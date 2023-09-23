@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "forest:block/truncated_pumice",
+    "particle": "forest:block/truncated_pumice"
+  },
+  "render_type": "solid"
+}

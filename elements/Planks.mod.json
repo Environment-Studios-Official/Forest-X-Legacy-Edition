@@ -1,0 +1,26 @@
+{
+  "_fv": 48,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CherryPlanks"
+      },
+      {
+        "value": "CUSTOM:LemonPlanks"
+      },
+      {
+        "value": "CUSTOM:PeachPlanks"
+      },
+      {
+        "value": "CUSTOM:PearPlanks"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "planks",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "forest:block/mulberry_leaves_with_white",
+    "particle": "forest:block/mulberry_leaves_with_white"
+  }
+}

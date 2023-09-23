@@ -1,0 +1,48 @@
+{
+  "_fv": 48,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.FISH#0"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SaltDust"
+      },
+      {
+        "value": "CUSTOM:SaltDust"
+      },
+      {
+        "value": "CUSTOM:SaltDust"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SaltCod"
+    },
+    "name": "salt_cod_craft",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "forest:block/deepslate_sapphire_ore",
+    "particle": "forest:block/deepslate_sapphire_ore"
+  },
+  "render_type": "solid"
+}

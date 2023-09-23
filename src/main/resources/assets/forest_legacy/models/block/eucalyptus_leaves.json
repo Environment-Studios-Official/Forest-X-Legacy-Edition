@@ -1,0 +1,7 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "forest:block/eucalyptus_leaves",
+    "particle": "forest:block/eucalyptus_leaves"
+  }
+}

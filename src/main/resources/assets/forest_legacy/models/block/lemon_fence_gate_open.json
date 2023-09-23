@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_fence_gate_open",
+  "textures": {
+    "texture": "forest_legacy:block/forest_lemon_planks"
+  },
+  "render_type": "solid"
+}

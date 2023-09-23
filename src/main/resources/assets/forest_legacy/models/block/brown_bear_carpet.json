@@ -1,0 +1,9 @@
+{
+  "parent": "forest:custom/carpet",
+  "textures": {
+    "all": "forest:block/brown_bear_carpet",
+    "particle": "forest:block/brown_bear_carpet",
+    "1": "forest:block/brown_bear_carpet"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 48,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:CherryFence"
+      },
+      {
+        "value": "CUSTOM:LemonFence"
+      },
+      {
+        "value": "CUSTOM:PeachFence"
+      },
+      {
+        "value": "CUSTOM:PearFence"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "wooden_fences",
+    "namespace": "minecraft"
+  }
+}

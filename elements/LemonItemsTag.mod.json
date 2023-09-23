@@ -1,0 +1,20 @@
+{
+  "_fv": 48,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:LemonWood"
+      },
+      {
+        "value": "CUSTOM:LemonLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "lemon_log",
+    "namespace": "forge"
+  }
+}

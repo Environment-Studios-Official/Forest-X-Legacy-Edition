@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "forest_legacy:burned_forest",
+  "features": "forest_legacy:rock_salt",
+  "step": "underground_ores"
+}

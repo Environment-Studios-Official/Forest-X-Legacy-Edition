@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "forest_legacy:block/ash_block",
+    "up": "forest_legacy:block/ash_block",
+    "north": "forest_legacy:block/ash_block",
+    "east": "forest_legacy:block/ash_block",
+    "south": "forest_legacy:block/ash_block",
+    "west": "forest_legacy:block/ash_block",
+    "particle": "forest_legacy:block/ash_block"
+  },
+  "render_type": "solid"
+}

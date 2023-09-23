@@ -1,0 +1,20 @@
+{
+  "_fv": 48,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:PeachWood"
+      },
+      {
+        "value": "CUSTOM:PeachLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "peach_log",
+    "namespace": "forge"
+  }
+}

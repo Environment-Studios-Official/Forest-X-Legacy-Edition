@@ -1,0 +1,48 @@
+{
+  "_fv": 48,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PeachLog"
+      },
+      {
+        "value": "CUSTOM:PeachLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PeachLog"
+      },
+      {
+        "value": "CUSTOM:PeachLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PeachWood"
+    },
+    "name": "peach_wood_recipe",
+    "namespace": "mod"
+  }
+}

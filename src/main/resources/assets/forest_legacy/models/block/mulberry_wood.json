@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "forest:block/mulberry_wood",
+    "particle": "forest:block/mulberry_wood"
+  },
+  "render_type": "solid"
+}

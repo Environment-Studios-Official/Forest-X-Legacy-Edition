@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "forest_legacy:burned_forest",
+  "spawners": {
+    "type": "forest_legacy:ashencow",
+    "weight": 20,
+    "minCount": 4,
+    "maxCount": 4
+  }
+}

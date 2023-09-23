@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "forest:block/rhyolite",
+    "top": "forest:block/rhyolite",
+    "side": "forest:block/rhyolite"
+  },
+  "render_type": "solid"
+}

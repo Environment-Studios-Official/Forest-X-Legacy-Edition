@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "forest_legacy:quicksands_desert",
+  "features": "forest_legacy:quicksand_feature",
+  "step": "lakes"
+}

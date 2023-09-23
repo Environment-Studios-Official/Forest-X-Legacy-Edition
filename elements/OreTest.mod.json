@@ -1,0 +1,9 @@
+{
+  "_fv": 48,
+  "_type": "command",
+  "definition": {
+    "commandName": "oretest",
+    "permissionLevel": "4",
+    "argsxml": "<xml><block type=\"args_start\" deletable=\"false\" x=\"40\" y=\"40\"></block></xml>"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "forest_legacy:lemon_planks"
+    },
+    "1": {
+      "item": "forest_legacy:lemon_planks"
+    },
+    "2": {
+      "item": "forest_legacy:lemon_planks"
+    }
+  },
+  "result": {
+    "item": "forest_legacy:lemon_slab",
+    "count": 6
+  }
+}

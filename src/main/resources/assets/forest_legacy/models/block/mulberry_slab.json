@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "forest:block/mulberry_planks",
+    "top": "forest:block/mulberry_planks",
+    "side": "forest:block/mulberry_planks"
+  },
+  "render_type": "solid"
+}

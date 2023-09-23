@@ -1,0 +1,48 @@
+{
+  "_fv": 48,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:CherryLog"
+      },
+      {
+        "value": "CUSTOM:LemonLog"
+      },
+      {
+        "value": "CUSTOM:PeachLog"
+      },
+      {
+        "value": "CUSTOM:PearLog"
+      },
+      {
+        "value": "CUSTOM:BurnedLog"
+      },
+      {
+        "value": "CUSTOM:CherryWood"
+      },
+      {
+        "value": "CUSTOM:LemonWood"
+      },
+      {
+        "value": "CUSTOM:PeachWood"
+      },
+      {
+        "value": "CUSTOM:PearWood"
+      },
+      {
+        "value": "Blocks.OAK_WOOD"
+      },
+      {
+        "value": "Blocks.SPRUCE_WOOD"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "logs",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "forest:block/polished_rhyolite",
+    "top": "forest:block/polished_rhyolite",
+    "side": "forest:block/polished_rhyolite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "forest_legacy:underground_crystal"
+    },
+    "title": {
+      "translate": "advancements.radiance_in_the_dungeon.title"
+    },
+    "description": {
+      "translate": "advancements.radiance_in_the_dungeon.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "radiance_in_the_dungeon": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "forest_legacy:crystal_dust"
+            ],
+            "count": {
+              "min": 1,
+              "max": 4
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "forest_legacy:after_the_fire"
+}

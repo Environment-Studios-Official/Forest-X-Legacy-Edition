@@ -1,0 +1,11 @@
+{
+  "_fv": 48,
+  "_type": "tab",
+  "definition": {
+    "name": "Fructic Forest Category",
+    "icon": {
+      "value": "CUSTOM:Cherry"
+    },
+    "showSearch": false
+  }
+}

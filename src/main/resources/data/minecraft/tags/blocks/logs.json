@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "forest_legacy:peach_wood",
+    "forest_legacy:peach_log",
+    "minecraft:spruce_wood",
+    "forest_legacy:lemon_log",
+    "forest_legacy:cherry_wood",
+    "forest_legacy:pear_wood",
+    "forest_legacy:burned_log",
+    "forest_legacy:lemon_wood",
+    "minecraft:oak_wood",
+    "forest_legacy:pear_log",
+    "forest_legacy:cherry_log"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "forest_legacy:peach_fence",
+    "forest_legacy:cherry_fence",
+    "forest_legacy:pear_fence",
+    "forest_legacy:lemon_fence"
+  ]
+}

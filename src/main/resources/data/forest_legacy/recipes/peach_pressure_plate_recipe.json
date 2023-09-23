@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "forest_legacy:peach_planks"
+    },
+    "1": {
+      "item": "forest_legacy:peach_planks"
+    }
+  },
+  "result": {
+    "item": "forest_legacy:deleted_mod_element",
+    "count": 1
+  }
+}

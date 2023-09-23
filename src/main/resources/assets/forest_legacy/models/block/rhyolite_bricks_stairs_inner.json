@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "forest:block/rhyolite_bricks",
+    "top": "forest:block/rhyolite_bricks",
+    "side": "forest:block/rhyolite_bricks"
+  },
+  "render_type": "solid"
+}

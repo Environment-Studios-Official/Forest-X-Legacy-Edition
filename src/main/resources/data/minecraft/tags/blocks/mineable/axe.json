@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "forest_legacy:cherry_wood",
+    "forest_legacy:cherry_log",
+    "forest_legacy:cherry_planks",
+    "forest_legacy:lemon_log",
+    "forest_legacy:lemon_wood",
+    "forest_legacy:lemon_planks",
+    "forest_legacy:peach_wood",
+    "forest_legacy:peach_log",
+    "forest_legacy:peach_planks",
+    "forest_legacy:pear_wood",
+    "forest_legacy:pear_log",
+    "forest_legacy:pear_planks",
+    "forest_legacy:burned_log",
+    "forest_legacy:burned_planks"
+  ]
+}

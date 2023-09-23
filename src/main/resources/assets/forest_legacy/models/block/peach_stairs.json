@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "forest_legacy:block/forest_peach_planks",
+    "top": "forest_legacy:block/forest_peach_planks",
+    "side": "forest_legacy:block/forest_peach_planks"
+  },
+  "render_type": "solid"
+}

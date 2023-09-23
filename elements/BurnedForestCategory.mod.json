@@ -1,0 +1,11 @@
+{
+  "_fv": 48,
+  "_type": "tab",
+  "definition": {
+    "name": "Burned Forest Category",
+    "icon": {
+      "value": "CUSTOM:BurnedLog"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "forest_legacy:block/forest_peach_wood_up",
+    "up": "forest_legacy:block/forest_peach_wood_down",
+    "north": "forest_legacy:block/forest_peach_wood_side",
+    "east": "forest_legacy:block/forest_peach_wood_side",
+    "south": "forest_legacy:block/forest_peach_wood_side",
+    "west": "forest_legacy:block/forest_peach_wood_side",
+    "particle": "forest_legacy:block/forest_peach_wood_up"
+  },
+  "render_type": "solid"
+}

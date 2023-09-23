@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "forest:block/polished_sandslate",
+    "particle": "forest:block/polished_sandslate"
+  },
+  "render_type": "solid"
+}

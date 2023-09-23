@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "forest_legacy:salt_dust"
+    },
+    "1": {
+      "item": "forest_legacy:salt_dust"
+    },
+    "2": {
+      "item": "forest_legacy:salt_dust"
+    },
+    "3": {
+      "item": "forest_legacy:salt_dust"
+    },
+    "4": {
+      "item": "forest_legacy:salt_dust"
+    },
+    "5": {
+      "item": "forest_legacy:salt_dust"
+    },
+    "6": {
+      "item": "forest_legacy:salt_dust"
+    },
+    "7": {
+      "item": "forest_legacy:salt_dust"
+    },
+    "8": {
+      "item": "forest_legacy:salt_dust"
+    }
+  },
+  "result": {
+    "item": "forest_legacy:salt_block",
+    "count": 1
+  }
+}

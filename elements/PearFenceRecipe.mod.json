@@ -1,0 +1,48 @@
+{
+  "_fv": 48,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PearPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:PearPlanks"
+      },
+      {
+        "value": "CUSTOM:PearPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:PearPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PearFence"
+    },
+    "name": "pear_fence_recipe",
+    "namespace": "mod"
+  }
+}

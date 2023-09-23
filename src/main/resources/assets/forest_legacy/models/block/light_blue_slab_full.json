@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "forest:block/light_blue_planks",
+    "top": "forest:block/light_blue_planks",
+    "side": "forest:block/light_blue_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_fence_gate",
+  "textures": {
+    "texture": "forest_legacy:block/forest_pear_planks"
+  },
+  "render_type": "solid"
+}

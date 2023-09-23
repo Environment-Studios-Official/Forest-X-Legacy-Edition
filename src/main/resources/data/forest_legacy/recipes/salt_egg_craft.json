@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "forest_legacy:salt_dust"
+    },
+    "1": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "forest_legacy:salt_egg",
+    "count": 1
+  }
+}

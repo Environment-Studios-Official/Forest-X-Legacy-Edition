@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "forest_legacy:lemon_leaves",
+    "forest_legacy:peach_leaves",
+    "forest_legacy:burned_leaves",
+    "forest_legacy:cherry_leaves",
+    "forest_legacy:pear_leaves"
+  ]
+}

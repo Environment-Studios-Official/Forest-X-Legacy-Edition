@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:tropical_fish"
+    },
+    "3": {
+      "item": "forest_legacy:salt_dust"
+    },
+    "4": {
+      "item": "forest_legacy:salt_dust"
+    },
+    "5": {
+      "item": "forest_legacy:salt_dust"
+    }
+  },
+  "result": {
+    "item": "forest_legacy:salt_tropical_fish",
+    "count": 1
+  }
+}

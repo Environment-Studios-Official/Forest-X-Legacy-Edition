@@ -1,0 +1,11 @@
+{
+  "_fv": 48,
+  "_type": "tab",
+  "definition": {
+    "name": "Desert Category",
+    "icon": {
+      "value": "CUSTOM:Quicksand.bucket"
+    },
+    "showSearch": false
+  }
+}

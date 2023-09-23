@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "forest_legacy:block/window_block"
+  },
+  "render_type": "translucent"
+}

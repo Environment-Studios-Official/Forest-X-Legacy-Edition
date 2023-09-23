@@ -1,0 +1,9 @@
+{
+  "parent": "forest:custom/snail_shell",
+  "textures": {
+    "all": "forest:block/snail_shell",
+    "particle": "forest:block/snail_shell",
+    "0": "forest:block/snail_shell"
+  },
+  "render_type": "solid"
+}

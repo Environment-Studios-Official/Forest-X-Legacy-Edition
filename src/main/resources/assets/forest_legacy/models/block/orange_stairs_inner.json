@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "forest:block/orange_planks",
+    "top": "forest:block/orange_planks",
+    "side": "forest:block/orange_planks"
+  },
+  "render_type": "solid"
+}

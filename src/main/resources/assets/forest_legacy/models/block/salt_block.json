@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "forest_legacy:block/forest_salt_block_side",
+    "up": "forest_legacy:block/forest_salt_block_up",
+    "north": "forest_legacy:block/forest_salt_block_down",
+    "east": "forest_legacy:block/forest_salt_block_down",
+    "south": "forest_legacy:block/forest_salt_block_down",
+    "west": "forest_legacy:block/forest_salt_block_down",
+    "particle": "forest_legacy:block/forest_salt_block_side"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "taiga",
+  "features": "forest_legacy:blackberrybush_1",
+  "step": "vegetal_decoration"
+}
