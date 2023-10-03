@@ -1,5 +1,5 @@
 {
-  "_fv": 48,
+  "_fv": 51,
   "_type": "block",
   "definition": {
     "texture": "rock_salt",
@@ -34,6 +34,9 @@
       }
     ],
     "name": "Rock Salt",
+    "specialInformation": {
+      "fixedValue": []
+    },
     "hardness": 3.0,
     "resistance": 5.0,
     "hasGravity": false,
@@ -116,9 +119,7 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
-    "spawnWorldTypes": [
-      "Surface"
-    ],
+    "generateFeature": true,
     "restrictionBiomes": [
       {
         "value": "CUSTOM:BurnedForest"

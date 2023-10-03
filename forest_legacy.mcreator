@@ -1406,8 +1406,7 @@
           "src/main/resources/data/forest_legacy/forge/biome_modifier/rock_salt_biome_modifier.json",
           "src/main/java/ru/power_umc/forestxexperiments/block/SaltOreBlock.java",
           "src/main/resources/data/forest_legacy/worldgen/placed_feature/rock_salt.json",
-          "src/main/resources/assets/forest_legacy/models/block/rock_salt.json",
-          "src/main/java/ru/power_umc/forestxexperiments/world/features/ores/SaltOreFeature.java"
+          "src/main/resources/assets/forest_legacy/models/block/rock_salt.json"
         ]
       },
       "path": "~/Salt"
@@ -1940,7 +1939,6 @@
           "src/main/resources/assets/forest_legacy/models/block/blackberrybush_1.json",
           "src/main/resources/data/forest_legacy/worldgen/placed_feature/blackberrybush_1.json",
           "src/main/resources/data/forest_legacy/worldgen/configured_feature/blackberrybush_1.json",
-          "src/main/java/ru/power_umc/forestxexperiments/world/features/plants/Blackberrybush1Feature.java",
           "src/main/java/ru/power_umc/forestxexperiments/block/Blackberrybush1Block.java",
           "src/main/resources/assets/forest_legacy/models/item/blackberrybush_1.json",
           "src/main/resources/assets/forest_legacy/blockstates/blackberrybush_1.json",
@@ -2080,7 +2078,6 @@
       "metadata": {
         "files": [
           "src/main/resources/data/forest_legacy/worldgen/placed_feature/cranberrybush_1.json",
-          "src/main/java/ru/power_umc/forestxexperiments/world/features/plants/Cranberrybush1Feature.java",
           "src/main/resources/data/forest_legacy/forge/biome_modifier/cranberrybush_1_biome_modifier.json",
           "src/main/java/ru/power_umc/forestxexperiments/block/Cranberrybush1Block.java",
           "src/main/resources/assets/forest_legacy/models/item/cranberrybush_1.json",
@@ -2331,7 +2328,6 @@
           "src/main/resources/assets/forest_legacy/models/item/underground_crystal.json",
           "src/main/resources/data/forest_legacy/worldgen/configured_feature/underground_crystal.json",
           "src/main/resources/assets/forest_legacy/blockstates/underground_crystal.json",
-          "src/main/java/ru/power_umc/forestxexperiments/world/features/ores/UndergroundCrystalFeature.java",
           "src/main/resources/assets/forest_legacy/models/block/underground_crystal.json",
           "src/main/java/ru/power_umc/forestxexperiments/block/UndergroundCrystalBlock.java",
           "src/main/resources/data/forest_legacy/forge/biome_modifier/underground_crystal_biome_modifier.json",
@@ -2634,7 +2630,6 @@
       "metadata": {
         "files": [
           "src/main/resources/data/forest_legacy/worldgen/placed_feature/quicksand_feature.json",
-          "src/main/java/ru/power_umc/forestxexperiments/world/features/QuicksandFeatureFeature.java",
           "src/main/resources/data/forest_legacy/forge/biome_modifier/quicksand_feature_biome_modifier.json",
           "src/main/resources/data/forest_legacy/worldgen/configured_feature/quicksand_feature.json"
         ]
@@ -2877,9 +2872,9 @@
   ],
   "language_map": {
     "en_us": {
-      "block.forest_legacy.cherry_fence_gate": "Cherry Fence Gate",
-      "item.forestex.ashencow_spawn_egg": "Ashencow Spawn Egg",
       "item.forest.silver_pickaxe": "Silver Pickaxe",
+      "item.forestex.ashencow_spawn_egg": "Ashencow Spawn Egg",
+      "block.forest_legacy.cherry_fence_gate": "Cherry Fence Gate",
       "block.forest_legacy.lemon_stairs": "Lemon Stairs",
       "itemGroup.tabsalt_category": "Salt Category",
       "biome.forestex.fruit_forest": "Fruit Forest",
@@ -2915,8 +2910,8 @@
       "advancements.radiance_in_the_dungeon.descr": "Get an underground crystal",
       "itemGroup.tabdesert_category": "Desert Category",
       "item.forestex.music_disc_egypt": "Music Disc",
-      "item.forestex.blackberry": "Blackberry",
       "block.forest.underground_crystal": "Underground Crystal",
+      "item.forestex.blackberry": "Blackberry",
       "block.forest_legacy.pear_planks": "Pear Planks",
       "item.forest.silver_hoe": "Silver Hoe",
       "block.forest.cherry_fence": "Cherry Fence",
@@ -3265,5 +3260,5 @@
     "modElementsPackage": "ru.power_umc.forestxexperiments",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202300438423
+  "mcreatorVersion": 202300439610
 }

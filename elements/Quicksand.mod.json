@@ -1,5 +1,5 @@
 {
-  "_fv": 48,
+  "_fv": 51,
   "_type": "fluid",
   "definition": {
     "name": "Quicksand",
@@ -30,6 +30,9 @@
       "value": ""
     },
     "rarity": "COMMON",
+    "specialInformation": {
+      "fixedValue": []
+    },
     "resistance": 100.0,
     "luminance": 0,
     "lightOpacity": 0,

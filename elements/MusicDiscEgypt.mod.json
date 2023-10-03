@@ -1,5 +1,5 @@
 {
-  "_fv": 48,
+  "_fv": 51,
   "_type": "musicdisc",
   "definition": {
     "name": "Music Disc",
@@ -8,7 +8,9 @@
     "creativeTab": {
       "value": "CUSTOM:DesertCategory"
     },
-    "hasGlow": false,
+    "specialInformation": {
+      "fixedValue": []
+    },
     "music": {
       "value": "CUSTOM:record.egypt"
     },

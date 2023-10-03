@@ -1,5 +1,5 @@
 {
-  "_fv": 48,
+  "_fv": 51,
   "_type": "block",
   "definition": {
     "texture": "forest_peach_planks",
@@ -35,6 +35,9 @@
       }
     ],
     "name": "Peach Fence",
+    "specialInformation": {
+      "fixedValue": []
+    },
     "hardness": 2.0,
     "resistance": 3.0,
     "hasGravity": false,
@@ -117,7 +120,7 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
-    "spawnWorldTypes": [],
+    "generateFeature": false,
     "restrictionBiomes": [],
     "blocksToReplace": [
       {

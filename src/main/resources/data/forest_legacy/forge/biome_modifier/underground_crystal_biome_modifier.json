@@ -1,8 +1,6 @@
 {
   "type": "forge:add_features",
-  "biomes": {
-    "type": "forge:any"
-  },
+  "biomes": "#is_overworld",
   "features": "forest_legacy:underground_crystal",
   "step": "underground_ores"
 }

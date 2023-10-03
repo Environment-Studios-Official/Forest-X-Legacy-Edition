@@ -1,5 +1,5 @@
 {
-  "_fv": 48,
+  "_fv": 51,
   "_type": "plant",
   "definition": {
     "renderType": 12,
@@ -29,6 +29,9 @@
       }
     ],
     "name": "Blackberry bush without berries",
+    "specialInformation": {
+      "fixedValue": []
+    },
     "creativeTab": {
       "value": "CUSTOM:Berries"
     },
@@ -78,7 +81,7 @@
     "canBePlacedOn": [],
     "isBonemealable": false,
     "frequencyOnChunks": 5,
-    "spawnWorldTypes": [],
+    "generateFeature": false,
     "restrictionBiomes": [],
     "generationType": "Flower",
     "patchSize": 64,

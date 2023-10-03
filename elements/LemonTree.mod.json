@@ -1,5 +1,5 @@
 {
-  "_fv": 48,
+  "_fv": 51,
   "_type": "structure",
   "definition": {
     "structure": "lemon_tree_fix",
@@ -12,9 +12,6 @@
     "spawnHeightOffset": 0,
     "spawnXOffset": -6,
     "spawnZOffset": -4,
-    "spawnWorldTypes": [
-      "Surface"
-    ],
     "restrictionBlocks": [
       {
         "value": "Blocks.GRASS"

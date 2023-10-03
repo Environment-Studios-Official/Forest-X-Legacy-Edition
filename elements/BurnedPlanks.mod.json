@@ -1,5 +1,5 @@
 {
-  "_fv": 48,
+  "_fv": 51,
   "_type": "block",
   "definition": {
     "texture": "burned_planks",
@@ -34,6 +34,9 @@
       }
     ],
     "name": "Burned Planks",
+    "specialInformation": {
+      "fixedValue": []
+    },
     "hardness": 0.2,
     "resistance": 0.47546795773833406,
     "hasGravity": false,
@@ -116,7 +119,7 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
-    "spawnWorldTypes": [],
+    "generateFeature": false,
     "restrictionBiomes": [],
     "blocksToReplace": [
       {

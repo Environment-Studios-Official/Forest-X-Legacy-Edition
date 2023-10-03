@@ -1,5 +1,5 @@
 {
-  "_fv": 48,
+  "_fv": 51,
   "_type": "block",
   "definition": {
     "texture": "crystal",
@@ -34,6 +34,9 @@
       }
     ],
     "name": "Underground Crystal",
+    "specialInformation": {
+      "fixedValue": []
+    },
     "hardness": 3.0,
     "resistance": 100.0,
     "hasGravity": false,
@@ -116,10 +119,12 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
-    "spawnWorldTypes": [
-      "Surface"
+    "generateFeature": true,
+    "restrictionBiomes": [
+      {
+        "value": "#is_overworld"
+      }
     ],
-    "restrictionBiomes": [],
     "blocksToReplace": [
       {
         "value": "Blocks.STONE#0"

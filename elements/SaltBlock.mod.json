@@ -1,5 +1,5 @@
 {
-  "_fv": 48,
+  "_fv": 51,
   "_type": "block",
   "definition": {
     "texture": "forest_salt_block_side",
@@ -34,6 +34,9 @@
       }
     ],
     "name": "Block of Salt",
+    "specialInformation": {
+      "fixedValue": []
+    },
     "hardness": 1.6,
     "resistance": 10.0,
     "hasGravity": true,
@@ -116,7 +119,7 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
-    "spawnWorldTypes": [],
+    "generateFeature": false,
     "restrictionBiomes": [],
     "blocksToReplace": [
       {
