@@ -5,12 +5,12 @@ license="All Rights Reserved"
 [[mods]]
 modId="forest_legacy"
 version="1.4.0.1"
-displayName="Forest X Legacy Edition"
+displayName="Forest X Legacy"
 displayURL="https://power-umc.ru/minecraft-java-edition/mods/5-forest-x-reborn.html"
 logoFile="logo.png"
 credits="Created by MagicalAlexey with the support of 7ZLBeka, maxD, Samuelchik"
 authors="Environment Studios"
-description="An additional mod for Forest X Reborn, which adds experimental mechanics to the game. This mod is experimental in nature and cannot be used in the final product!"
+description="Forest X is a popular mod for Minecraft Java Edition, which adds new biomes, trees, as well as various flowers, berry bushes, building blocks and much more to the game.."
 
 [[dependencies.forest_legacy]]
     modId="minecraft"
